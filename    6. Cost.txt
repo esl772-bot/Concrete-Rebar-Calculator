@@ -1,0 +1,9 @@
+// 6. Cost Evaluation Engine Integration
+const unitCostConcrete = parseFloat(document.getElementById('concreteCost').value) || 0;
+const unitCostRebar = parseFloat(document.getElementById('rebarCost').value) || 0;
+
+const totalConcreteSpend = finalCubicYards * unitCostConcrete;
+const totalRebarSpend = structuralSticksCount * unitCostRebar;
+const grossProjectSpend = totalConcreteSpend + totalRebarSpend;
+
+document.getElementById('outTotalCost').innerText = "$" + grossProjectSpend.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });

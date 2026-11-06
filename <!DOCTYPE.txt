@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy | Commercial Concrete Estimator</title>
+    <script src="https://jsdelivr.net"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 py-12 px-6">
+    <div class="max-w-2xl mx-auto bg-white p-8 rounded-xl border border-gray-200 shadow-xs">
+        <h1 class="text-2xl font-extrabold text-slate-950 mb-4">Privacy Policy</h1>
+        <p class="text-xs text-gray-500 mb-6">Last Updated: November 2026</p>
+        
+        <div class="space-y-4 text-sm leading-relaxed">
+            <p>This application operates as a standalone utility. We do not store, distribute, or collect structural metrics or job-site data input into our processing forms.</p>
+            
+            <h2 class="text-lg font-bold text-slate-950 pt-2">Display Advertising & Cookies</h2>
+            <p>This web asset leverages programmatic networks to serve relevant commercial banner displays. These third-party vendors utilize operational cookies to track demographic data and optimize user relevance based on localized browsing behavior.</p>
+            
+            <h2 class="text-lg font-bold text-slate-950 pt-2">User Opt-Out Provisions</h2>
+            <p>Users maintain complete authority to decline non-essential programmatic script tags by accessing individual browser setting controls or via our cookie selection interface banner.</p>
+        </div>
+        <p class="mt-8 text-xs text-blue-600"><a href="index.html">← Return to Estimator Dashboard</a></p>
+    </div>
+</body>
+</html>
